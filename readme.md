@@ -1,0 +1,4 @@
+#   FUNGSI CARA KERJA
+1.Linked list digunakan untuk menyimpan data dalam urutan tertentu yang dapat diubah. Karena setiap node pada linked list memiliki pointer ke node berikutnya, kita dapat menambahkan atau menghapus node pada linked list dengan mudah tanpa perlu memindahkan seluruh elemen data seperti yang terjadi pada array. 2.Linked list memungkinkan kita untuk mengalokasikan memori dengan lebih efisien daripada array. Karena setiap node pada linked list hanya memerlukan sedikit ruang untuk menyimpan data dan pointer, kita dapat mengalokasikan memori hanya untuk elemen yang diperlukan. 3.Meskipun pengaksesan elemen pada linked list tidak secepat array, linked list masih memungkinkan pengaksesan elemen data dengan cepat. Kita dapat mengakses elemen data pada linked list dengan menggunakan pointer yang menghubungkan antar node.
+# ELEMEN YANG DI GUNAKAN
+Elemen yang digunakan constructor,main, function biasa, function class, function while dan METHOD
